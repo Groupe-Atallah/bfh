@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-formhelpers",
+  "version": "1.0.5",
+  "homepage": "http://bootstrapformhelpers.com",
+  "authors": [
+    "Vincent Lamanna <v@cakemail.com>"
+  ],
+  "description": "A collection of jQuery plugins for Bootstrap.",
+  "dependencies": {
+    "bootstrap": "3.0.0"
+  },
+  "_release": "1.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.5",
+    "commit": "024c9334dab7c9a6867336950d64ff28392ddda7"
+  },
+  "_source": "git://github.com/Groupe-Atallah/bfh.git",
+  "_target": "1.0.5",
+  "_originalSource": "Groupe-Atallah/bfh"
+}
